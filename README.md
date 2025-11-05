@@ -90,4 +90,17 @@ The app is built using the Flutter SDK and follows clean architecture principles
 
 ## Folder Structure
 
+lib/
+┣ screens/
+┃ ┣ splash/
+┃ ┣ login/
+┃ ┣ withdrawals/
+┃ ┗ notifications/
+┣ widgets/
+┣ theme/
+┗ main.dart
+assets/
+┣ images/
+┗ screenshots/
+
 
