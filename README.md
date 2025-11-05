@@ -118,10 +118,18 @@ This structure ensures modularity, readability, and easy maintenance of the app.
 
 ## Screenshots
 
+
+
+
+
+
 ### Light Theme
 | Splash | Login | Withdrawals | Notifications |
 |--------|--------|-------------|----------------|
-| ![Splash Light](assets/screenshots/splash_light.png) | ![Login Light](assets/screenshots/login_light.png) | ![Withdrawals Light](assets/screenshots/withdrawals_light.png) | ![Notifications Light](assets/screenshots/notifications_light.png) |
+| ![Splash Light](<img src="https://github.com/user-attachments/assets/359c0a5d-b4a5-4fad-b32a-0880a45b0568" width="100"/>) | ![Login Light](<img src="https://github.com/user-attachments/assets/848538fa-b9ac-41e2-a1f1-a9cb9624c033" width="100"/>) | ![Withdrawals Light](<img src="https://github.com/user-attachments/assets/d6fe183b-2279-4e18-a16b-074c016d44af" width="100"/>) | ![Notifications Light](<img src="https://github.com/user-attachments/assets/f476dc88-cbdb-49f3-9f10-b2e65342159c" width="100"/>) |
+
+
+
 
 ### Dark Theme
 | Splash | Login | Withdrawals | Notifications |
