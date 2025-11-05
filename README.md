@@ -118,23 +118,16 @@ This structure ensures modularity, readability, and easy maintenance of the app.
 
 ## Screenshots
 
-
-
-
-
-
 ### Light Theme
 | Splash | Login | Withdrawals | Notifications |
 |--------|--------|-------------|----------------|
 | ![Splash Light](<img src="https://github.com/user-attachments/assets/359c0a5d-b4a5-4fad-b32a-0880a45b0568" width="100"/>) | ![Login Light](<img src="https://github.com/user-attachments/assets/848538fa-b9ac-41e2-a1f1-a9cb9624c033" width="100"/>) | ![Withdrawals Light](<img src="https://github.com/user-attachments/assets/d6fe183b-2279-4e18-a16b-074c016d44af" width="100"/>) | ![Notifications Light](<img src="https://github.com/user-attachments/assets/f476dc88-cbdb-49f3-9f10-b2e65342159c" width="100"/>) |
 
 
-
-
 ### Dark Theme
 | Splash | Login | Withdrawals | Notifications |
 |--------|--------|-------------|----------------|
-| ![Splash Dark](assets/screenshots/splash_dark.png) | ![Login Dark](assets/screenshots/login_dark.png) | ![Withdrawals Dark](assets/screenshots/withdrawals_dark.png) | ![Notifications Dark](assets/screenshots/notifications_dark.png) |
+| ![Splash Dark](<img src="https://github.com/user-attachments/assets/554f3a80-1c76-4be5-bf51-5ee1dfdd4ac0" width="100"/>) | ![Login Dark](<img src="https://github.com/user-attachments/assets/5fa050e9-adf4-4c45-850b-4100771f1318" width="100"/>) | ![Withdrawals Dark](<img src="https://github.com/user-attachments/assets/d950c751-f50d-46e7-999a-84ca9d215def" width="100"/>) | ![Notifications Dark](<img src="https://github.com/user-attachments/assets/f8c476ab-2443-475c-8609-d97fdc38ecb6" width="100"/>) |
 
 ---
 
@@ -142,7 +135,7 @@ This structure ensures modularity, readability, and easy maintenance of the app.
 A short demo video showcasing the complete app flow (Splash → Login → Withdrawals → Notifications) is available below:
 
 [View Demo Video](#)  
-(*Replace with your actual Google Drive or YouTube video link*)
+https://youtube.com/shorts/uwxuF6z3RtE?feature=share
 
 ---
 
@@ -150,7 +143,7 @@ A short demo video showcasing the complete app flow (Splash → Login → Withdr
 You can download and test the release build of this project from the following link:
 
 [Download APK](#)  
-(*Replace with your actual Google Drive or GitHub Releases link*)
+https://appho.st/d/cei9bLPG
 
 ---
 
