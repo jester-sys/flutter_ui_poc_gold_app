@@ -104,3 +104,62 @@ assets/
 ┗ screenshots/
 
 
+
+This structure ensures modularity, readability, and easy maintenance of the app.
+
+---
+
+## Responsiveness and Design Accuracy
+- All screens have been tested on different screen sizes (mobile emulator and physical device).
+- Font sizes, paddings, and colors have been carefully adjusted to match the reference UI.
+- Used `SingleChildScrollView` and `Flexible` widgets to handle smaller devices.
+
+---
+
+## Screenshots
+
+### Light Theme
+| Splash | Login | Withdrawals | Notifications |
+|--------|--------|-------------|----------------|
+| ![Splash Light](assets/screenshots/splash_light.png) | ![Login Light](assets/screenshots/login_light.png) | ![Withdrawals Light](assets/screenshots/withdrawals_light.png) | ![Notifications Light](assets/screenshots/notifications_light.png) |
+
+### Dark Theme
+| Splash | Login | Withdrawals | Notifications |
+|--------|--------|-------------|----------------|
+| ![Splash Dark](assets/screenshots/splash_dark.png) | ![Login Dark](assets/screenshots/login_dark.png) | ![Withdrawals Dark](assets/screenshots/withdrawals_dark.png) | ![Notifications Dark](assets/screenshots/notifications_dark.png) |
+
+---
+
+## Demo Video
+A short demo video showcasing the complete app flow (Splash → Login → Withdrawals → Notifications) is available below:
+
+[View Demo Video](#)  
+(*Replace with your actual Google Drive or YouTube video link*)
+
+---
+
+## APK Download
+You can download and test the release build of this project from the following link:
+
+[Download APK](#)  
+(*Replace with your actual Google Drive or GitHub Releases link*)
+
+---
+
+## How to Run the Project
+
+```bash
+# Clone this repository
+git clone https://github.com/kanhaiya8066/flutter_ui_challenge_spaytech.git
+
+# Navigate into the project folder
+cd flutter_ui_challenge_spaytech
+
+# Get all dependencies
+flutter pub get
+
+# Run the app
+flutter run
+
+
+
